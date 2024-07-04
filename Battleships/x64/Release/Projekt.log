@@ -1,0 +1,89 @@
+﻿  Enemy.cpp
+C:\Users\sebcw\Desktop\We all gonna die\Projekt\Enemy.cpp(20,68): warning C4267: "argument": konwersja z "size_t" do "_Ty", możliwa utrata danych
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\sebcw\Desktop\We all gonna die\Projekt\Enemy.cpp(71,72): warning C4267: "argument": konwersja z "size_t" do "_Ty", możliwa utrata danych
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\sebcw\Desktop\We all gonna die\Projekt\Enemy.cpp(123,68): warning C4267: "argument": konwersja z "size_t" do "_Ty", możliwa utrata danych
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\sebcw\Desktop\We all gonna die\Projekt\Enemy.cpp(175,72): warning C4267: "argument": konwersja z "size_t" do "_Ty", możliwa utrata danych
+          with
+          [
+              _Ty=int
+          ]
+  ListaStatkow.cpp
+C:\Users\sebcw\Desktop\We all gonna die\Projekt\ListaStatkow.cpp(475,47): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\sebcw\Desktop\We all gonna die\Projekt\ListaStatkow.cpp(593,55): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\sebcw\Desktop\We all gonna die\Projekt\ListaStatkow.cpp(706,41): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\sebcw\Desktop\We all gonna die\Projekt\ListaStatkow.cpp(824,49): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+  Main.cpp
+C:\Users\sebcw\Desktop\We all gonna die\Projekt\Main.cpp(66,79): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\sebcw\Desktop\We all gonna die\Projekt\Main.cpp(66,61): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\sebcw\Desktop\We all gonna die\Projekt\Main.cpp(76,29): warning C4244: "inicjowanie": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\sebcw\Desktop\We all gonna die\Projekt\Main.cpp(79,36): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\sebcw\Desktop\We all gonna die\Projekt\Main.cpp(80,36): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\sebcw\Desktop\We all gonna die\Projekt\Main.cpp(138,70): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\sebcw\Desktop\We all gonna die\Projekt\Main.cpp(225,25): warning C4244: "inicjowanie": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\sebcw\Desktop\We all gonna die\Projekt\Main.cpp(228,48): warning C4244: "=": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\sebcw\Desktop\We all gonna die\Projekt\Main.cpp(229,40): warning C4244: "=": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\sebcw\Desktop\We all gonna die\Projekt\Main.cpp(244,25): warning C4244: "inicjowanie": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\sebcw\Desktop\We all gonna die\Projekt\Main.cpp(247,48): warning C4244: "=": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\sebcw\Desktop\We all gonna die\Projekt\Main.cpp(248,40): warning C4244: "=": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  Trwa generowanie kodu
+  5 of 507 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    4 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  Projekt.vcxproj -> C:\Users\sebcw\Desktop\We all gonna die\Projekt\x64\Release\Projekt.exe

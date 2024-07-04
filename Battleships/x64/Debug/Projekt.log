@@ -1,0 +1,9 @@
+﻿  Plansza.cpp
+C:\Users\sebcw\Desktop\We all gonna die\Projekt\Plansza.cpp(29,13): warning C4244: "inicjowanie": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\sebcw\Desktop\We all gonna die\Projekt\Plansza.cpp(353): warning C4715: "Board::Set_ship”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\sebcw\Desktop\We all gonna die\Projekt\Plansza.cpp(528): warning C4715: "Board::Set_player_ship”: niewszystkie ścieżki kodu zwracają wartość
+  Projekt.vcxproj -> C:\Users\sebcw\Desktop\We all gonna die\Projekt\x64\Debug\Projekt.exe
